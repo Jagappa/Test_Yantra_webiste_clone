@@ -1,0 +1,229 @@
+.box01{
+    border: 2px solid orange;
+    height: 380vh;
+    width: 100%;
+}
+#boxs{
+    /* border: 2px solid green; */
+    height: 65vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+#box1{
+    /* border: 2px solid rgb(128, 0, 43); */
+    height: 70vh;
+    width: 45%;
+}
+#withtext{
+    /* border: 2px solid orange; */
+    height: 15vh;
+    width: 100%;
+    display: flex;
+    justify-content: left;
+    align-items:last baseline;
+}
+#sytlefont{
+    border: 2px solid orange;
+    height: 10vh;
+    width: 100%;
+}
+
+#content1{
+    /* border: 2px solid orange; */
+    height: 10vh;
+    width: 100%;
+    font-size: 18px;
+}
+#content2{
+    /* border: 2px solid orange; */
+    height: 12vh;
+    width: 100%;
+    font-size: 18px;
+}
+
+#con5 {
+    /* border: 2px solid skyblue; */
+    height: 8vh;
+    width: 100%;
+}
+
+#con5 button {
+    height: 45px;
+    width: 30%;
+    color: #fff;
+    background-color: #133864;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 6px;
+    border: none;
+}
+
+#arrow {
+    color: #f27f3d;
+}
+
+#con5 button:hover {
+    background-color: #f27f3d;
+}
+#box2{
+    /* border: 2px solid rgb(128, 0, 43); */
+    height: 70vh;
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#box2banner{
+    border: 2px solid rgb(0, 255, 123);
+    height: 50vh;
+    width: 80%;
+    border-radius: 10px;
+}
+#box02{
+    /* border:10px solid black ; */
+    height: 950px;
+    width: 100%;
+    font-size: large;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    background-color: #f2f6f9;
+    /* box-shadow: 3px 100px 2px red; */
+}
+#boxheading{
+    /* border: 2px solid #f27f3d; */
+    height:18vh;
+    width: 100%;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   flex-direction: column;
+   color: #162d52;
+   font-weight: bold;
+   font-size: xx-large;
+}
+#boxcards{
+    /* border: 2px solid #f2f23d; */
+    height:45vh;
+    width: 100%;  
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    gap: 15px;
+}
+#boxcards1{
+    /* border: 2px solid grey; */
+    height: 40vh;
+    width: 15%;
+    display: flex;
+    flex-direction: column;
+    gap: px;
+    box-shadow: 0 0 10px hsla(0, 2%, 37%, 0.868);
+    background-color: aliceblue;
+    transition:0.5s ease-in-out;
+
+    
+}
+#boxcards1:hover{
+    transform: translatey(20px);
+    }
+#boxcards1img {
+    /* border: 5px solid rgb(38, 154, 82); */
+    height: 15vh;
+    width: 100%;
+    display:flex ;
+    justify-content: left;
+    align-items: last baseline;
+    padding-left: 10%;
+    
+}
+#boxcards1img img:hover{
+    border: 5px solid #ffc043;
+    border-radius: 1px;
+        
+    
+}
+#boxcards1head{
+    /* border: 5px solid rgb(143, 5, 5); */
+    height: 12vh;
+    width: 100%;  
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+    padding-left: 8%;
+    color: #162d52;
+    font-size: 20px;
+    
+}
+
+#boxcards1content{
+    /* border: 5px solid rgb(118, 76, 76); */
+    height: 15vh;
+    width: 100%;  
+    display: flex;
+    justify-content: space-evenly;
+    align-items: start; 
+    padding-left:8%;    
+}
+#youtubbox{
+    /* border: 2px solid #f2f23d; */
+    height:55vh;
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#youtub{
+    /* border: 2px solid red; */
+    height: 50vh;
+    width: 60%;
+    display: flex;
+    border-radius: 10px;
+}
+#box03{
+    border: 10px solid gray;
+    height: 85vh;
+    width: 100%;
+}
+#box04{
+    border: 10px solid rgb(187, 19, 19);
+    height: 100vh;
+    width: 100%;
+}
+#boxheading1{
+    border: 2px solid blue;
+    height: 20vh;
+    width: 100%;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: last baseline;
+    color: #162d52;
+    padding-bottom: 1%;
+}
+#boxcards01{
+    border: 2px solid rgb(53, 217, 229);
+    height: 77vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+#boxcards2{
+    border: 2px solid rgb(231, 18, 167);
+    height: 77vh;
+    width: 100%;
+  
+}
+
+
+    
